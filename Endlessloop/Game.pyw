@@ -7,7 +7,7 @@ import random
 #print(a)
 from winsound import*
 #Winsound Text:
-#winsound.Playsound('"I:/Udisk/MyText/Endlessloop·Item 1[N]/Sound/Text.wav"')
+#winsound.Playsound('"Sound/Text.wav"')
 import pygame
 import time
 import sys
