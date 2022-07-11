@@ -1,0 +1,15 @@
+此程序依赖Python3.7及以上Python，使用前请安装Python3.7及以上版本，还请安装必备库:
+Easygui
+Pygame
+Pillow
+安装方法：
+(Windows)Win键+R，输入cmd，输入代码，分别为：
+pip3 list(确认自己有没有这些库，有的不用装）
+pip3 install easygui
+pip3 install pygame
+pip3 install pillow
+如报错，请自行上网搜索Easygui，Pygame，Pillow的whl文件，使用pip下载。
+代码为：
+pip3 install （文件路径+文件名）
+例如：
+pip3 install D:\Python\Python-WHL\pyinstaller-5.0.1-py3-none-any.whl
